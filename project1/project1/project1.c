@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-/*
+
 int main()
 {
 	int a, b;
@@ -18,7 +18,7 @@ int main()
 	printf("%d를 %d로 나눈 결과는 : %f", a, b, (float)a / b);
 	return 0;
 }
-*/
+/*
 int main()
 
 //relational operator >,<,>=,<=,==,!=
@@ -46,4 +46,4 @@ int main()
 	return 0;
 
 }
-
+*/
